@@ -1,0 +1,59 @@
+footer {
+    display: flex;
+    border: 3px solid black;
+}
+
+footer > div {
+    border:  2px solid black;
+    padding: 10px;
+}
+
+footer img {
+    width: 150px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contacto {
+    color: olive;
+}
+
+footer {
+    background: black;
+    background-color:black ;
+}
+
+h2 { 
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.botones { 
+    border: 2px solid rgb(61, 60, 60);
+    border-radius: 3px;
+    color: white;
+    background-color: black;
+    padding: 20px 30px;
+
+}
+
+.contenedor-botones {
+    display: flex;
+    gap: 20px;
+}
